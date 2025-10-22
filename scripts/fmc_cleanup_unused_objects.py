@@ -1,7 +1,5 @@
 # this script will identify unused network objects of type Network, Range, Host and Group
 # FMC will not allow deletion of objects in use, additionally, this script is only acting on objects marked not in use
-# as an additional level of safety, the objects being deleted will be backed up in csv files prior to deletion
-# an accompanying script in this project will restore the objects from those backup files if needed 
 # it is still recommended that a valid FMC system backup be performed prior to cleanup
 
 
