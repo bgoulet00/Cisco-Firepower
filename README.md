@@ -21,7 +21,7 @@ For example:
 python scripts/fmc_inventory.py
 python scripts/fmc_logging_audit.py
 
-## Notes:
+## Notes
 
 - Requires Python 3.10+
 - Designed for Cisco FMC 7.x / API v1.x
