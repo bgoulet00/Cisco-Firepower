@@ -1,0 +1,4 @@
+name,description,type,value
+test-host1,host object,host,1.1.1.1
+test-range1,this decription could be left blank,range,10.0.0.1-10.0.0.10
+test-net1,,network,192.168.1.0/24

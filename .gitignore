@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+
+# Local-only workspace
+/local/
+/output/
+*.local.*
+*_local.*
+*.draft.*
+*.scratch.*
+
+# Editors
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
