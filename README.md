@@ -8,14 +8,11 @@ Each script performs a specific function such as exporting policies, auditing lo
 ## Repository Structure
 
 Firepower/
-├── common/ # Shared libraries and helper functions (e.g., FMC login, API calls)
-├── data/ # Input data files (e.g., CSVs for object creation or mapping)
-├── fmc_config/ # Configuration parameters (e.g., base_url, credentials, domain UUID)
-├── output/ # Generated output from scripts (e.g., CSV, JSON, Excel reports)
-├── scripts/ # Individual tools for performing FMC operations
-├── .gitignore
-├── pyproject.toml
-└── README.md
+- common/ # Shared libraries and helper functions (e.g., FMC login, API calls)
+- data/ # Input data files (e.g., CSVs for object creation or mapping)
+- fmc_config/ # Configuration parameters (e.g., base_url, credentials, domain UUID)
+- output/ # Generated output from scripts (e.g., CSV, JSON, Excel reports)
+- scripts/ # Individual tools for performing FMC operations
 
 ## Running Scrips
 
